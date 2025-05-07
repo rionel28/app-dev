@@ -1,6 +1,6 @@
 # My Favorite Movie: Moana
 
-![Moana]([![Moana Poster](https://image.tmdb.org/t/p/original/4yGzhOVqBliZOBZZ4rDKpQoexb.jpg)
+![Moana Poster](https://image.tmdb.org/t/p/original/4yGzhOVqBliZOBZZ4rDKpQoexb.jpg)
 
 **Moana** is a Disney animated film about a courageous Polynesian girl who sets sail across the ocean to restore the heart of Te Fiti and save her island, guided by her ancestors and accompanied by the demigod Maui.
 
